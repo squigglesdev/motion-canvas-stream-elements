@@ -17,6 +17,7 @@ Motion Canvas Stream Elements is built off [Motion Canvas][mc], for use in [OBS]
 ## Using MC Stream Elements
 
 Requires base knowledge of Motion Canvas. If you don't know how to use it, check out the [Motion Canvas docs][docs] to learn how to use it.
+
 To use, clone the repo and run
 ```
 npm i
