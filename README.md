@@ -22,7 +22,9 @@ To use, clone the repo and run
 npm i
 ```
 Then feel free to modify the `src/scenes/streamelements.tsx` file to your liking, making sure to have at least one presentation slide. Then run
-```npm run serve```
+```
+npm run serve
+```
 to start hosting the project on your local machine. You can then add a browser source in OBS, pointing to `http://localhost:9000?present` (or whatever port vite has given you in the terminal output). Then in OBS press the interact button when the browser source is selected, then press the full screen icon to remove the Motion Canvas UI. Future versions will remove the need for this step.
 
 
